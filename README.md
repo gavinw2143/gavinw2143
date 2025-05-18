@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey! I'm Gavin.
+I'm a full-stack developer new to open source, looking to contribute
 <!--
 **gavinw2143/gavinw2143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
